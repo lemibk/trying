@@ -1,5 +1,6 @@
 body {
-  background-color :black;
+  background-color: rgb(194, 190, 190);
+  margin: 0 20% 0 20%;
 }
 
 h1 {
@@ -7,5 +8,13 @@ h1 {
 }
 
 p {
-  color: azure;
+  color: rgb(13, 20, 20);
+}
+
+.The-info {
+  font-size: 40px;
+  font-weight: 600;
+  text-align: center;
+
+
 }
