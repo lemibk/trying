@@ -26,3 +26,9 @@ p {
   height: 181;
   border-radius: 8px;
 }
+
+.section-two {
+  text-align: center;
+  color: darkgreen;
+  font-size: 50px;
+}
