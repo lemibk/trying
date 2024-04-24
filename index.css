@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(194, 190, 190);
+  background-color: aliceblue;
   margin: 0 20% 0 20%;
 }
 
@@ -11,17 +11,18 @@ p {
   color: rgb(13, 20, 20);
 }
 
-.flex-cointainer {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-
-}
 
 .The-info {
   font-size: 40px;
   font-weight: 600;
-  text-align: center;
 
+  line-height: 137%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 
+}
+
+.The-info-detail {
+  width: 351px;
+  height: 181;
+  border-radius: 8px;
 }
