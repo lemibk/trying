@@ -1,15 +1,9 @@
 body {
   background-color: aliceblue;
   margin: 0 20% 0 20%;
+
 }
 
-h1 {
-  color: gray;
-}
-
-p {
-  color: rgb(13, 20, 20);
-}
 
 
 .The-info {
@@ -31,4 +25,9 @@ p {
   text-align: center;
   color: darkgreen;
   font-size: 50px;
+}
+
+.edit {
+  font-size: 50px;
+  text-align: center;
 }
