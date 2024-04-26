@@ -1,6 +1,7 @@
 body {
   background-color: aliceblue;
-  margin: 0 20% 0 20%;
+
+  column-gap: 90px;
 
 }
 
@@ -30,4 +31,20 @@ body {
 .edit {
   font-size: 50px;
   text-align: center;
+}
+
+li {
+  list-style: none;
+  float: left;
+  width: 60px;
+  column-gap: 50px;
+}
+
+.flex {
+  display: flex;
+  column-gap: 300px;
+
+  overflow: auto;
+  height: auto;
+  width: auto;
 }
